@@ -62,7 +62,7 @@ outd = rbind(outd, t(c(dim(mat [ c(rpermmat[ii,]), c(cpermmat[jj,]) ]), toString
 
 print(outlist[[nr]][[nc]])
 
-outlist[[nr]][[nc]]
+
 
 } ### closing the first if condition
 
